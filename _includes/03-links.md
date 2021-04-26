@@ -1,1 +1,3 @@
-Replace this with a link to your a GitHub or social media profile.
+### My Projects
+
+[Data Science Operations: Automating Your Notebook Infrastructure](https://github.com/datascienceops/notebook-infrastructure)
