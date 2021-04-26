@@ -1,1 +1,7 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+*AWS | DevOps | MLOps*
+_Cloud Architecture_
+
+**DevOps Lead**
+__AWS GCP Azure__
+
+_Experienced in **Cloud Security**_
